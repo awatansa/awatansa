@@ -1,0 +1,19 @@
+= Awatansa Vishwakarma
+
+Hey there, I'm a software developer currently working with Spring boot and Angular. Creating interactive application with complex forms and automated suggestions.
+
+== My Skills Stack
+
+=== Backend
+. Spring Boot (v2.x & v3.x)
+. Java
+. Oracle SQL
+. MongoDB
+
+== Frontend
+. Angular
+.. NgRx
+. RxJs
+. React
+. `@reduxjs/toolkit`
+. Tailwind
